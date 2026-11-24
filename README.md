@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;IoT+Developer;React+%7C+FastAPI+%7C+Python;Building+Smart+Solutions" />
+</p>
 # 👋 Hey there! I'm Karthikeyan
 
 ### 💻 Python Full Stack Developer | IoT Developer | AI & ML Enthusiast
