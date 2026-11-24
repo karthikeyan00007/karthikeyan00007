@@ -20,6 +20,12 @@ Building web applications, backend systems and intelligent IoT solutions.
 
 ## 🛠️ Technical Skills
 
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,html,css,js,react,bootstrap,mysql,postgres,git,github,vscode" />
+</p>
+
 ### Frontend
 - HTML
 - CSS
