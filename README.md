@@ -68,13 +68,17 @@ Building web applications, backend systems and intelligent IoT solutions.
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikeyan00007&show_icons=true&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikeyan00007&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+</p>
 ---
 
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=karthikeyan00007&theme=tokyonight)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=karthikeyan00007&theme=tokyonight&hide_border=true" height="180" />
+</p>
 ---
 
 ## 📫 Connect With Me
