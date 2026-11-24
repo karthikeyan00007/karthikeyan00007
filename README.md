@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;IoT+Developer;React+%7C+FastAPI+%7C+Python;Building+Smart+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;IoT+Developer;React and Django+%7C+FastAPI+%7C+Python;Building+Smart+Solutions" />
 </p>
 
 
@@ -16,7 +16,7 @@ Building web applications, backend systems and intelligent IoT solutions.
 
 - 🎓 BSc Mathematics Graduate
 - 💻 Python Full Stack Developer
-- 🌱 Learning FastAPI, React.js and AI/ML
+- 🌱 Learning FastAPI, React.js,Django and AI/ML
 - 🔌 Interested in IoT and Smart Systems
 - 📍 India
 - 🚀 Building real-world projects
